@@ -12,7 +12,7 @@ Before running this project, ensure you have the following installed on your mac
 
 ---
 
-## 🚀 Step-by-Step Setup Guide
+##  Step-by-Step Setup Guide
 
 Follow these instructions strictly in order to set up the project locally.
 
